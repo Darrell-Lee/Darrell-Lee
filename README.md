@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darrell-Lee
 - 👀 I’m interested in everything to do with GitHub
-- 🌱 I’m currently working to lear Github as we use it exclusively now in my work environment.
+- 🌱 I’m currently working to learn Github as we use it exclusively now in my work environment.
 - 💞️ I’m looking to collaborate on ...
 - 📫 I am best reached at TrainMeUpp@gmail.com
 
